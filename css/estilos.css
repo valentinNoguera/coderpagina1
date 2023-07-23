@@ -1,0 +1,96 @@
+.wsp img{
+    height: 40px;
+    width: 40px;
+    background-color: green;
+    padding: 10px;
+    border-radius: 50%;
+}
+.wsp{
+    position: fixed;
+    bottom: 50px;
+    right: 50px;
+}
+.redes img{
+    width: 40px;
+    height: 40px;
+    display: block;
+    margin-top: 5px;
+}
+.redes{
+    position: fixed;
+    left: 0;
+    top: 50%;}
+
+ul li{
+    display: inline;
+    color: black;
+    font-weight: bolder;
+    font-size: 3rem;
+    margin-bottom: 60px;
+    padding: 0 60px;
+}
+.una{
+    margin: auto;
+    text-align: center;
+}
+.una img{
+    width: 700px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.padre{
+    height: 1000px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.padre img{
+    width: 200px;
+    height: 200px;
+    
+}
+.casaa{
+    margin: auto;
+    text-align: center;
+}
+.casaa img{
+    width: 700px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.fiest{
+    margin: auto;
+    text-align: center;
+}
+.fiest img{
+    width: 700px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.fiesta11{
+    margin: auto;
+    text-align: center;
+}
+.fiesta11 img{
+    width: 700px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.fiesta22{
+    margin: auto;
+    text-align: center;
+}
+.fiesta22 img{
+    width: 800px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.fiesta33{
+    margin: auto;
+    text-align: center;
+}
+.fiesta33 img{
+    width: 900px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
